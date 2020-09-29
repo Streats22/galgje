@@ -11,3 +11,4 @@
 
 ## Beurten
 beurt1: A
+beurt2: N
