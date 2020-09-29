@@ -12,3 +12,4 @@
 ## Beurten
 beurt1: A
 beurt2: N
+beurt3: S
